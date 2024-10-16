@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#bac{
+    background: url(master-unknown-Vyy3Nnlm5Uc-unsplash.jpg);
+    background-position: center; /* Resmi ortala */
+    background-repeat: no-repeat; /* Tekrar etme */
+    height: 100vh; 
+    background-size:cover;
+    
+    
+
+    
+}
+#nav-123{
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#ser123{
+    color: #4398b5;
+}
+.ada123{
+    position: relative;
+}
+#ada{
+    color: #4398b5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(325%,500%);
+}
+#hh23{
+    color: #4398b5;
+}
+#cnc{
+    width: 40%;
+    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(10%,740%);
+}
+#fot{
+    background-color: #005670;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* $.ajax({
+    url:"https://freefakeapi.io/api/users/"+userId,
+    method:"get",
+    success:function(res){
+      
+      
+      b.names=res.username;
+    
+   
+
+    }
+  })
+  return b;
+} */

@@ -1,0 +1,13 @@
+#back{
+    background-color: #085E7D;
+}
+.card-img-top{
+    width: 100%;
+            height:200px;
+    object-fit:cover ;
+    
+}
+#ps{
+   background-color: #085E7D;
+   position: fixed;
+}
